@@ -51,7 +51,6 @@ GitHub: https://github.com/lioula3/Topic-modeling-with-NLP
 
 - Supervisor: Anne-Cécile GAY
 - Organization: Independent Data Scientist, in collaboration with Make.org
-- Contact: annececile.gay@gmail.com
 
 ## Language Note
 
