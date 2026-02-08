@@ -1,0 +1,21 @@
+cluster_id,theme,taux_pertinence,nb_pertinentes,nb_total
+0,Agriculture et biodiversité,100.0,20,20
+1,Protection de la biodiversité,90.0,18,20
+2,Éducation à l'écologie,95.0,19,20
+3,Réduction des déchets plastiques,65.0,13,20
+4,Gestion de la faune,100.0,20,20
+5,Gestion de l'eau,100.0,20,20
+6,Protection de l'environnement,100.0,20,20
+7,Sensibilisation à la biodiversité,100.0,20,20
+8,Interdiction des pesticides,60.0,12,20
+9,Protection de la mer,90.0,18,20
+10,Végétalisation des villes,80.0,16,20
+11,Protection de l'environnement,90.0,18,20
+12,Alimentation durable et végétale,90.0,18,20
+13,Préservation des forêts,95.0,19,20
+14,Préservation de la biodiversité,100.0,20,20
+15,Protection de la biodiversité,100.0,20,20
+16,Réduction de la pollution lumineuse,80.0,16,20
+17,Développement durable local,100.0,20,20
+18,Interdiction de la chasse,80.0,16,20
+19,Transports en commun durables,85.0,17,20
