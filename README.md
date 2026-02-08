@@ -24,7 +24,7 @@ Which major themes emerge from the biodiversity consultation, and how do they di
 ### 3. Topic Modeling with LLMs
 - Using pre-trained language models via Hugging Face
 - Extracting embeddings and applying clustering
-- Direct LLM querying for categorization (if time permits)
+- Direct LLM querying for categorization 
 
 ### 4. Comparative Analysis
 - Cross-comparison of clusters and themes across methods
@@ -51,10 +51,6 @@ GitHub: https://github.com/lioula3/Topic-modeling-with-NLP
 
 - Supervisor: Anne-Cécile GAY
 - Organization: Independent Data Scientist, in collaboration with Make.org
-
-## Language Note
-
-Oral communication with the supervisor is conducted in French. Written documentation is maintained in English.
 
 ## References
 
